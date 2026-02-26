@@ -1,0 +1,3 @@
+This is a sample file.
+I am uploading it to a remote server via Python SFTP.
+It can contain any text you like.
